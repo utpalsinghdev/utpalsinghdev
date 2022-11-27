@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [utpalsinghdev.epizy.com](utpalsinghdev.epizy.com)
+- 👨‍💻 All of my projects are available at [http://utpalsinghdev.epizy.com](http://utpalsinghdev.epizy.com)
 
 - 💬 Ask me about **Website, Frontend, Backend**
 
