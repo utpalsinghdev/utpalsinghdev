@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **utpalsingh915@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/bfkER]shorturl.at/bfkER)
+- 📄 Know about my experiences [shorturl.at/bfkER](shorturl.at/bfkER)
 
 - ⚡ Fun fact **web developers is that they often spend hours trying to perfect a single pixel on a website.**
 
