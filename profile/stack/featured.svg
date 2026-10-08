@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="48" viewBox="0 0 740 48" role="img" aria-label="Main stack: TypeScript, React, Next.js, NestJS, PostgreSQL, Prisma">
+  <style>text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
+  <rect width="740" height="48" fill="#000"/>
+  <circle cx="10" cy="24" r="4" fill="#3178C6"/>
+  <text x="24" y="29" font-size="14" font-weight="600" fill="#fff">TypeScript</text>
+  <circle cx="134" cy="24" r="4" fill="#61DAFB"/>
+  <text x="148" y="29" font-size="14" font-weight="600" fill="#fff">React</text>
+  <circle cx="258" cy="24" r="4" fill="#fff"/>
+  <text x="272" y="29" font-size="14" font-weight="600" fill="#fff">Next.js</text>
+  <circle cx="382" cy="24" r="4" fill="#E0234E"/>
+  <text x="396" y="29" font-size="14" font-weight="600" fill="#fff">NestJS</text>
+  <circle cx="506" cy="24" r="4" fill="#4169E1"/>
+  <text x="520" y="29" font-size="14" font-weight="600" fill="#fff">PostgreSQL</text>
+  <circle cx="630" cy="24" r="4" fill="#fff"/>
+  <text x="644" y="29" font-size="14" font-weight="600" fill="#fff">Prisma</text>
+</svg>

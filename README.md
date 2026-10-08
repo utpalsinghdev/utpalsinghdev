@@ -1,51 +1,65 @@
-<div align="center">
-
-# Utpal Singh
-
-**Full-stack engineer · Greater Noida, India**
-
-I build practical products across TypeScript, React, Node.js, and PostgreSQL. I care about clear data flows, sound system design, and taking ideas from a working prototype to software people can rely on.
-
-[Portfolio](https://my-site-iota-five.vercel.app) · [LinkedIn](https://linkedin.com/in/utpalsingh-dev) · [Email](mailto:utpalsingh915@gmail.com)
-
-</div>
-
-## What I work with
+<h1 align="center"><b>Full Stack TypeScript Developer</b></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-1f2937?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-1f2937?style=flat-square&logo=prisma&logoColor=ffffff" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+Utpal Singh · Delhi, India<br />
+TypeScript, React, and backend systems. Practical products, clear data flows.
 </p>
 
-I also work with FastAPI, Next.js, Tailwind CSS, CI/CD, and AI tools including MCP.
+<p align="center">
+<a href="mailto:utpalsingh915@gmail.com"><img src="./assets/buttons/contact.svg" alt="Contact me" /></a>
+<a href="https://my-site-iota-five.vercel.app"><img src="./assets/buttons/portfolio.svg" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/utpalsingh-dev"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" /></a>
+</p>
 
-## Open-source contributions
+---
 
-Four merged pull requests across two projects.
+## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/offendingcommit/openconcho"><strong>OpenConcho</strong></a><br />
-      Improved missing-token feedback, workspace navigation, and deletion errors.
-      <ul>
-        <li><a href="https://github.com/offendingcommit/openconcho/pull/103">Warn when the Honcho token is missing</a></li>
-        <li><a href="https://github.com/offendingcommit/openconcho/pull/104">Link workspace title to its overview</a></li>
-        <li><a href="https://github.com/offendingcommit/openconcho/pull/105">Surface workspace deletion errors</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/UsefulSoftwareCo/executor"><strong>UsefulSoftwareCo / executor</strong></a><br />
-      Made browser approval links use the configured public HTTPS origin.
-      <ul>
-        <li><a href="https://github.com/UsefulSoftwareCo/executor/pull/1967">Use the public origin for browser approval URLs</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="./profile/stack/featured.svg" alt="Main stack: TypeScript, React, Next.js, NestJS, PostgreSQL, Prisma" width="100%" />
+
+<details>
+<summary><b>All skills</b></summary>
+<br />
+
+**Languages**<br />
+TypeScript · JavaScript · Python
+
+**Frontend**<br />
+React · Next.js · Tailwind CSS
+
+**Backend**<br />
+Node.js · NestJS · FastAPI · PostgreSQL · Prisma
+
+**Tools**<br />
+Docker · CI/CD · MCP
+
+</details>
+
+---
+
+## Projects
+
+<p>
+<a href="https://github.com/utpalsinghdev/wiki-web"><img src="./profile/pins/wiki-web.svg" alt="Wiki-Web: self-hosted Markdown workspace with editing, search, wikilinks, and an interactive graph" width="100%" /></a>
+</p>
+
+## Contributed to
+
+<p>
+<a href="https://github.com/offendingcommit/openconcho/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/openconcho.svg" alt="OpenConcho: 3 merged pull requests" width="49.5%" /></a>
+<a href="https://github.com/UsefulSoftwareCo/executor/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/executor.svg" alt="Executor: 1 merged pull request" width="49.5%" /></a>
+</p>
+
+<details>
+<summary><b>Merged pull requests</b></summary>
+<br />
+
+**[OpenConcho](https://github.com/offendingcommit/openconcho)**
+- [Warn when the Honcho token is missing](https://github.com/offendingcommit/openconcho/pull/103)
+- [Link workspace title to its overview](https://github.com/offendingcommit/openconcho/pull/104)
+- [Surface workspace deletion errors](https://github.com/offendingcommit/openconcho/pull/105)
+
+**[Executor](https://github.com/UsefulSoftwareCo/executor)**
+- [Use the public origin for browser approval URLs](https://github.com/UsefulSoftwareCo/executor/pull/1967)
+
+</details>

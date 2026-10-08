@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="36" viewBox="0 0 112 36" role="img" aria-label="LinkedIn">
+  <style>text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
+  <rect width="112" height="36" fill="#000"/>
+  <rect x="0.5" y="0.5" width="111" height="35" rx="4" fill="#000" stroke="#404040"/>
+  <text x="56" y="23" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">LinkedIn</text>
+</svg>

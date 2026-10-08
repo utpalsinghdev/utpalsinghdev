@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="368" height="88" viewBox="0 0 368 88" role="img" aria-label="offendingcommit/openconcho: 3 merged pull requests">
+  <style>text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
+  <rect width="368" height="88" fill="#000"/>
+  <path d="M0 87H368" stroke="#303030"/>
+  <path d="M2 18v50" stroke="#a78bfa" stroke-width="3"/>
+  <text x="18" y="32" font-size="18" font-weight="600" fill="#fff">OpenConcho</text>
+  <text x="18" y="53" font-size="12" fill="#b0b0b0">offendingcommit/openconcho</text>
+  <text x="18" y="73" font-size="13" fill="#a78bfa">3 merged pull requests</text>
+</svg>
