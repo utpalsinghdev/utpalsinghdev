@@ -45,6 +45,7 @@ Utpal Singh · Delhi, India
 
 <p>
 <img src="./profile/stack/typescript.svg" alt="TypeScript" />
+<img src="./profile/stack/rust.svg" alt="Rust" />
 <img src="./profile/stack/react.svg" alt="React" />
 <img src="./profile/stack/nextdotjs.svg" alt="Next.js" />
 <img src="./profile/stack/nestjs.svg" alt="NestJS" />
@@ -59,6 +60,7 @@ Utpal Singh · Delhi, India
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=73B3E7)
 
