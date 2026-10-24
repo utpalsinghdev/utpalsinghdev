@@ -15,6 +15,7 @@ Utpal Singh · Delhi, India
 ## Contributed to
 
 <p>
+<a href="https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/plannotator.svg" alt="Plannotator: 1 merged pull request" width="360" /></a>
 <a href="https://github.com/offendingcommit/openconcho/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/openconcho.svg" alt="OpenConcho: 3 merged pull requests" width="360" /></a>
 <a href="https://github.com/UsefulSoftwareCo/executor/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/executor.svg" alt="Executor: 1 merged pull request" width="360" /></a>
 </p>
@@ -22,6 +23,9 @@ Utpal Singh · Delhi, India
 <details>
 <summary><b>Merged pull requests</b></summary>
 <br />
+
+**[Plannotator](https://github.com/backnotprop/plannotator)**
+- [Preserve the Pi turn when replacing an Ask AI question](https://github.com/backnotprop/plannotator/pull/2126)
 
 **[OpenConcho](https://github.com/offendingcommit/openconcho)**
 - [Warn when the Honcho token is missing](https://github.com/offendingcommit/openconcho/pull/103)
