@@ -15,7 +15,7 @@ Utpal Singh · Delhi, India
 ## Contributed to
 
 <p>
-<a href="https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/plannotator.svg" alt="Plannotator: 1 merged pull request" width="360" /></a>
+<a href="https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/plannotator.svg" alt="Plannotator: 9 merged pull requests" width="360" /></a>
 <a href="https://github.com/offendingcommit/openconcho/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/openconcho.svg" alt="OpenConcho: 3 merged pull requests" width="360" /></a>
 <a href="https://github.com/UsefulSoftwareCo/executor/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/executor.svg" alt="Executor: 1 merged pull request" width="360" /></a>
 </p>
@@ -25,6 +25,14 @@ Utpal Singh · Delhi, India
 <br />
 
 **[Plannotator](https://github.com/backnotprop/plannotator)**
+- [Support isolated localhost preference cookies](https://github.com/backnotprop/plannotator/pull/2188)
+- [Wait for plugins before the OpenCode 2 update command](https://github.com/backnotprop/plannotator/pull/2277)
+- [Load local images in Inbox Markdown attachments](https://github.com/backnotprop/plannotator/pull/2285)
+- [Add rich-text selection copy with a separate shortcut](https://github.com/backnotprop/plannotator/pull/2191)
+- [Hide pending annotations on hidden slides](https://github.com/backnotprop/plannotator/pull/2185)
+- [Offer manual Inbox notes for Cursor](https://github.com/backnotprop/plannotator/pull/2153)
+- [Watch directories instead of files on Linux](https://github.com/backnotprop/plannotator/pull/2155)
+- [Support fixed ports for live app proxies](https://github.com/backnotprop/plannotator/pull/2145)
 - [Preserve the Pi turn when replacing an Ask AI question](https://github.com/backnotprop/plannotator/pull/2126)
 
 **[OpenConcho](https://github.com/offendingcommit/openconcho)**
