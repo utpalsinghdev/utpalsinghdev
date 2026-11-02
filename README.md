@@ -15,7 +15,8 @@ Utpal Singh · Delhi, India
 ## Contributed to
 
 <p>
-<a href="https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/plannotator.svg" alt="Plannotator: 9 merged pull requests" width="360" /></a>
+<a href="https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/plannotator.svg" alt="Plannotator: 15 merged pull requests" width="360" /></a>
+<a href="https://github.com/cjpais/Handy/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/handy.svg" alt="Handy: 1 merged pull request" width="360" /></a>
 <a href="https://github.com/offendingcommit/openconcho/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/openconcho.svg" alt="OpenConcho: 3 merged pull requests" width="360" /></a>
 <a href="https://github.com/UsefulSoftwareCo/executor/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/executor.svg" alt="Executor: 1 merged pull request" width="360" /></a>
 </p>
@@ -25,20 +26,29 @@ Utpal Singh · Delhi, India
 <br />
 
 **[Plannotator](https://github.com/backnotprop/plannotator)**
-- [Support isolated localhost preference cookies](https://github.com/backnotprop/plannotator/pull/2188)
-- [Wait for plugins before the OpenCode 2 update command](https://github.com/backnotprop/plannotator/pull/2277)
-- [Load local images in Inbox Markdown attachments](https://github.com/backnotprop/plannotator/pull/2285)
-- [Add rich-text selection copy with a separate shortcut](https://github.com/backnotprop/plannotator/pull/2191)
-- [Hide pending annotations on hidden slides](https://github.com/backnotprop/plannotator/pull/2185)
-- [Offer manual Inbox notes for Cursor](https://github.com/backnotprop/plannotator/pull/2153)
-- [Watch directories instead of files on Linux](https://github.com/backnotprop/plannotator/pull/2155)
-- [Support fixed ports for live app proxies](https://github.com/backnotprop/plannotator/pull/2145)
-- [Preserve the Pi turn when replacing an Ask AI question](https://github.com/backnotprop/plannotator/pull/2126)
+- [fix(annotate): keep Contents in sync after scrolling and file switches](https://github.com/backnotprop/plannotator/pull/2403)
+- [fix(vscode): restore select-all in chat and comment inputs](https://github.com/backnotprop/plannotator/pull/2431)
+- [fix: close uninstall host integration recovery gaps](https://github.com/backnotprop/plannotator/pull/2226)
+- [fix(inbox): open relative Markdown links in attachments](https://github.com/backnotprop/plannotator/pull/2363)
+- [fix(review): prevent partial diffs from crashing code review](https://github.com/backnotprop/plannotator/pull/2361)
+- [fix: scroll to headings in Inbox Markdown attachments](https://github.com/backnotprop/plannotator/pull/2316)
+- [fix: support isolated localhost preference cookies](https://github.com/backnotprop/plannotator/pull/2188)
+- [fix(opencode): wait for plugins before the OpenCode 2 update command](https://github.com/backnotprop/plannotator/pull/2277)
+- [fix: load local images in Inbox Markdown attachments](https://github.com/backnotprop/plannotator/pull/2285)
+- [feat: add rich-text selection copy with a separate shortcut](https://github.com/backnotprop/plannotator/pull/2191)
+- [fix: hide pending annotations on hidden slides](https://github.com/backnotprop/plannotator/pull/2185)
+- [fix: offer manual Inbox notes for Cursor](https://github.com/backnotprop/plannotator/pull/2153)
+- [fix: watch directories instead of files on Linux](https://github.com/backnotprop/plannotator/pull/2155)
+- [fix: support fixed ports for live app proxies](https://github.com/backnotprop/plannotator/pull/2145)
+- [fix: preserve Pi turn when replacing an Ask AI question](https://github.com/backnotprop/plannotator/pull/2126)
+
+**[Handy](https://github.com/cjpais/Handy)**
+- [fix: restore shortcut fallback when manager startup fails](https://github.com/cjpais/Handy/pull/2327)
 
 **[OpenConcho](https://github.com/offendingcommit/openconcho)**
-- [Warn when the Honcho token is missing](https://github.com/offendingcommit/openconcho/pull/103)
-- [Link workspace title to its overview](https://github.com/offendingcommit/openconcho/pull/104)
-- [Surface workspace deletion errors](https://github.com/offendingcommit/openconcho/pull/105)
+- [fix: surface workspace deletion errors](https://github.com/offendingcommit/openconcho/pull/105)
+- [feat: make workspace title link to overview](https://github.com/offendingcommit/openconcho/pull/104)
+- [feat: warn when Honcho token is missing](https://github.com/offendingcommit/openconcho/pull/103)
 
 **[Executor](https://github.com/UsefulSoftwareCo/executor)**
 - [Use the public origin for browser approval URLs](https://github.com/UsefulSoftwareCo/executor/pull/1967)
