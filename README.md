@@ -15,7 +15,7 @@ Utpal Singh · Delhi, India
 ## Contributed to
 
 <p>
-<a href="https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/plannotator.svg" alt="Plannotator: 15 merged pull requests" width="360" /></a>
+<a href="https://github.com/backnotprop/plannotator/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/plannotator.svg" alt="Plannotator: 18 merged pull requests" width="360" /></a>
 <a href="https://github.com/cjpais/Handy/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/handy.svg" alt="Handy: 1 merged pull request" width="360" /></a>
 <a href="https://github.com/offendingcommit/openconcho/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/openconcho.svg" alt="OpenConcho: 3 merged pull requests" width="360" /></a>
 <a href="https://github.com/UsefulSoftwareCo/executor/pulls?q=is%3Apr+author%3Autpalsinghdev+is%3Amerged"><img src="./profile/contrib/executor.svg" alt="Executor: 1 merged pull request" width="360" /></a>
@@ -26,6 +26,9 @@ Utpal Singh · Delhi, India
 <br />
 
 **[Plannotator](https://github.com/backnotprop/plannotator)**
+- [fix(print): make HTML explainers printable](https://github.com/backnotprop/plannotator/pull/2580)
+- [fix(review): load private GitHub attachment images](https://github.com/backnotprop/plannotator/pull/2579)
+- [fix(pi): preserve gated reviews and route feedback to their opener](https://github.com/backnotprop/plannotator/pull/2581)
 - [fix(annotate): keep Contents in sync after scrolling and file switches](https://github.com/backnotprop/plannotator/pull/2403)
 - [fix(vscode): restore select-all in chat and comment inputs](https://github.com/backnotprop/plannotator/pull/2431)
 - [fix: close uninstall host integration recovery gaps](https://github.com/backnotprop/plannotator/pull/2226)
